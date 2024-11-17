@@ -5,7 +5,7 @@ The project was developed on Ubuntu and prints the message 'Hello World' to the 
 ## ⚠️ **¡IMPORTANT!** ⚠️
 
 - The **main** branch contains the project with Docker setup.
-- The **railway-deployment** branch contains the project configured for Render. 
+- The **render-deployment** branch contains the project configured for Render. 
 
 
 ## 📑 Table of Contents
