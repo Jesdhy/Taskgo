@@ -43,7 +43,8 @@ You can check your Python version by running:
 ## 🐳 Running with docker
 
 1.- Making Docker Pull or Build docker image
-    ![image](https://github.com/user-attachments/assets/7ce14b80-cba5-4b20-a9d2-1b3aa58cae08)
+![image](https://github.com/user-attachments/assets/0149fb42-4ead-4d20-9256-9a57864187bd)
+
  ```sh
    docker pull jessdhy/sumgo:latest
    ```
