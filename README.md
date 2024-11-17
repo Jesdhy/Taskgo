@@ -21,7 +21,7 @@ The project was developed on Ubuntu and prints the message 'Hello World' to the 
 
 ## 🚀 Getting Started
 ## 🔧 Prerequisites
-**Go**: This project requires **Go 11.4.0**. Make sure you have this version installed on your system.
+**Go**: This project requires **Go 1.23.2**. Make sure you have this version installed on your system.
 You can check your Python version by running:
 ```bash
  g++ --version
