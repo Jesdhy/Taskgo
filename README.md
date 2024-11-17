@@ -16,7 +16,7 @@ The project was developed on Ubuntu and prints the message 'Hello World' to the 
   - [🔧 Prerequisites](#prerequisites)
   - [📥 Installation](#installation)
   - [⚙️ Running](#running)
-  - [🐳 Running with Docker](#running-with-docker)
+  - [🚀 Running in Railway](#running-with-railway)
 - [🤝 Contributing](#contributing)
 
 ## 🚀 Getting Started
@@ -40,19 +40,15 @@ You can check your Python version by running:
     go run main.go
    ```
 
-## 🐳 Running with docker
+## 🚀 Running in Railway
+1.- Create an account on Railway
+If you don't have an account, sign up for Railway.
 
-1.- Making Docker Pull or Build docker image
-    ![image](https://github.com/user-attachments/assets/7ce14b80-cba5-4b20-a9d2-1b3aa58cae08)
- ```sh
-   docker pull jessdhy/sumgo:latest
-   ```
+2.- Import the repository into Railway
 
-2.- Last make a docker run
-
- ```sh
-   docker run -it jessdhy/sumgo
-   ```
+- Log in to Railway and select the New Project option.
+- Click on Deploy from GitHub Repo.
+- Connect your GitHub account (if you haven't already) and select this repository.
    
 ## 🤝 Contributing
 Thank you for your interest in contributing to this project! Here are some guidelines for doing so:
