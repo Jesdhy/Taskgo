@@ -1,8 +1,13 @@
 # 🌍👋 Hello world in Go
-![image](https://github.com/user-attachments/assets/e75d2539-3389-46f6-890d-475588043d61)
 
 ## 📘 About The Project
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using Go.
+
+## ⚠️ **¡IMPORTANT!** ⚠️
+
+- The **main** branch contains the project with Docker setup.
+- The **railway-deployment** branch contains the project configured for Railway. 
+
 
 ## 📑 Table of Contents
 
